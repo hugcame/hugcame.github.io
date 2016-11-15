@@ -1,7 +1,3 @@
-* {
-    box-sizing: border-box;
-}
-
 body {
     background-color: aqua;
 }
@@ -18,6 +14,7 @@ h3 {
     color: black;
     font-family: verdana;    
 }
+
 html {
 background: #505D6E url(http://www.underconsideration.com/brandnew/archives/premier_league_pattern.gif) no-repeat center center fixed;
 min-height: 100%;
